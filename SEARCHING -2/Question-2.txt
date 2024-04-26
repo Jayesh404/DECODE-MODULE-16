@@ -1,0 +1,3 @@
+Solution :-
+
+If we have very large sample space, then we will use Binary search.
